@@ -49,6 +49,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - Firewall & VPN Lab
+- Vulnerability Scanning 
 - Network Security Monitoring
 - Virus Creation
 - Ransomware Attack
