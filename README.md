@@ -13,7 +13,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Firewall and VPN Configuration         | <a href="https://github.com/Dimphoehrens99-dot/Firewall-and-VPN-Configuration">Firewall & VPN Lab</a>|
-| Network Security Monitoring | <a href="https://github.com/Dimphoehrens99-dot/Network-Security-Scanning">Network Monitoring</a>|
+| Network Security | <a href="https://github.com/Dimphoehrens99-dot/Network-Security-Scanning">Network Monitoring</a> \| <a href="https://github.com/Dimphoehrens99-dot/Vulnerability_scanning_Lab_1">Vulnerability Scanning Lab</a> |
 | Virus Creation      | <a href="https://github.com/Dimphoehrens99-dot/Virus-Simulation">Virus Lab</a> |
 | Ransomware      | <a href="https://github.com/Dimphoehrens99-dot/Ransomware-Simulation">Ransomware Lab</a> |
 | Privilege Escalation     | <a href="https://github.com/Dimphoehrens99-dot/Privilege-Escalation-Lab">Privilege Escalation Lab</a>|
