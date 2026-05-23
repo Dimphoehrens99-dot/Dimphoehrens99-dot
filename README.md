@@ -11,7 +11,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |                            |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Dimphoehrens99-dot/Splunk_Lab1">Splunk_Lab1</a>|
 | Firewall and VPN Configuration                | <a href="https://github.com/Dimphoehrens99-dot/Firewall-and-VPN-Configuration">Firewall & VPN Lab</a> |
 | Network Traffic Monitoring & Attack Detection | <a href="https://github.com/Dimphoehrens99-dot/Network-Security-Scanning">Network Monitoring</a> \| <a href="https://github.com/Dimphoehrens99-dot/Vulnerability_scanning_Lab_1">Vulnerability Scanning Lab</a> |
 | Virus Creation                                | <a href="https://github.com/Dimphoehrens99-dot/Virus-Simulation">Virus Lab</a> |
