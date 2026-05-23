@@ -9,15 +9,15 @@ I have a profound interest in Ethical hacking, Penetration Testing and Securing 
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to gain hands-on experience, specifically aiming to get an Internship as a Tier 1 (Security Operations Center) SOC Analyst where I can learn and enhance the skills I have acquired.
 
 ## Skills
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Firewall and VPN Configuration         | <a href="https://github.com/Dimphoehrens99-dot/Firewall-and-VPN-Configuration">Firewall & VPN Lab</a>|
-| Network Traffic monitoring & Attack Detection | <a href="https://github.com/Dimphoehrens99-dot/Network-Security-Scanning">Network Monitoring</a> \| <a href="https://github.com/Dimphoehrens99-dot/Vulnerability_scanning_Lab_1">Vulnerability Scanning Lab</a> |
-| Virus Creation      | <a href="https://github.com/Dimphoehrens99-dot/Virus-Simulation">Virus Lab</a> |
-| Ransomware      | <a href="https://github.com/Dimphoehrens99-dot/Ransomware-Simulation">Ransomware Lab</a> |
-| Privilege Escalation     | <a href="https://github.com/Dimphoehrens99-dot/Privilege-Escalation-Lab">Privilege Escalation Lab</a>|
-| Keylogger Simulation      | <a href="https://github.com/Dimphoehrens99-dot/Keylogger-Lab">Keylogger Lab</a>|
+| SIEM Implementation and Log Analysis          |                            |
+| Firewall and VPN Configuration                | <a href="https://github.com/Dimphoehrens99-dot/Firewall-and-VPN-Configuration">Firewall & VPN Lab</a> |
+| Network Traffic Monitoring & Attack Detection | <a href="https://github.com/Dimphoehrens99-dot/Network-Security-Scanning">Network Monitoring</a> \| <a href="https://github.com/Dimphoehrens99-dot/Vulnerability_scanning_Lab_1">Vulnerability Scanning Lab</a> |
+| Virus Creation                                | <a href="https://github.com/Dimphoehrens99-dot/Virus-Simulation">Virus Lab</a> |
+| Ransomware                                    | <a href="https://github.com/Dimphoehrens99-dot/Ransomware-Simulation">Ransomware Lab</a> |
+| Privilege Escalation                          | <a href="https://github.com/Dimphoehrens99-dot/Privilege-Escalation-Lab">Privilege Escalation Lab</a> |
+| Keylogger Simulation                          | <a href="https://github.com/Dimphoehrens99-dot/Keylogger-Lab">Keylogger Lab</a> |
 
 ## Tools
 
