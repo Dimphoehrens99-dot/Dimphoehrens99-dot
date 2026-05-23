@@ -1,5 +1,6 @@
 # Hello, I'm Dimpo Ehrens
 <a href="https://www.linkedin.com/in/dimpo-ehrens-041955365/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 Information Technology student specializing in Networking and Security. I hold a CompTIA Security + Certification, cisco introduction to Cybersecurity and Cisco Networking basics Certifications. I have built home labs where I practice threat detection using splunk, Vulnerabilities using Metasploitable and penetration testing using Kali linux.
 
 ## Objective
